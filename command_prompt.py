@@ -59,7 +59,7 @@ Original file is located at
 # ...
 # (rest of the Streamlit code here)
 
-!pip install streamlit
+
 !npm install -g localtunnel
 
 !streamlit run command_prompt_generator.py --server.port 6006 & npx localtunnel --port 6006
