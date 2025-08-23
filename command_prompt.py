@@ -61,7 +61,3 @@ Original file is located at
 
 
 
-
-!streamlit run command_prompt_generator.py --server.port 6006 & npx localtunnel --port 6006
-
-!zip app.zip command_prompt_generator.py
